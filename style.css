@@ -17,7 +17,7 @@
 a {
   text-decoration: none;
   color: #fff;
-  padding: 20px 50px;
+  padding: 10px 7px;
   display: inline-block;
 }
 
@@ -46,12 +46,12 @@ body {
 
 .cast {
   display: flex;
-  gap: 150px;
+  gap: 100px;
   margin-top: 80px;
 }
 
 .cast span {
-  font-size: 80px;
+  font-size: 70px;
   text-align: center;
 }
 
@@ -65,7 +65,7 @@ body {
 }
 
 .phrase h2 {
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
 }
 
@@ -90,7 +90,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 10px;
+  gap: 5px;
 }
 
 .social i {
